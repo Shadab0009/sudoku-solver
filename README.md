@@ -2,7 +2,6 @@ Sudoku Solver using Digital Image Processing with Python, TensorFlow, and Comput
 This project implements a Sudoku solver that uses digital image processing techniques and machine learning algorithms to recognize the digits in a Sudoku puzzle image and solve the puzzle. The solver is built using Python, OpenCV, TensorFlow, and NumPy.
 
 Installation
-Clone this repository: git clone https://github.com/yourusername/sudoku-solver.git
 Install the required packages: pip install -r requirements.txt
 Download the trained TensorFlow model: model.h5
 Save the model.h5 file to the models directory.
